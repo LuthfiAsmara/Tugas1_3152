@@ -1,0 +1,11 @@
+E:\19.11.3136\TheSuperComputer\TheSuperComputer\bin\Debug\netcoreapp3.1\TheSuperComputer.exe
+E:\19.11.3136\TheSuperComputer\TheSuperComputer\bin\Debug\netcoreapp3.1\TheSuperComputer.deps.json
+E:\19.11.3136\TheSuperComputer\TheSuperComputer\bin\Debug\netcoreapp3.1\TheSuperComputer.runtimeconfig.json
+E:\19.11.3136\TheSuperComputer\TheSuperComputer\bin\Debug\netcoreapp3.1\TheSuperComputer.runtimeconfig.dev.json
+E:\19.11.3136\TheSuperComputer\TheSuperComputer\bin\Debug\netcoreapp3.1\TheSuperComputer.dll
+E:\19.11.3136\TheSuperComputer\TheSuperComputer\bin\Debug\netcoreapp3.1\TheSuperComputer.pdb
+E:\19.11.3136\TheSuperComputer\TheSuperComputer\obj\Debug\netcoreapp3.1\TheSuperComputer.csprojAssemblyReference.cache
+E:\19.11.3136\TheSuperComputer\TheSuperComputer\obj\Debug\netcoreapp3.1\TheSuperComputer.AssemblyInfoInputs.cache
+E:\19.11.3136\TheSuperComputer\TheSuperComputer\obj\Debug\netcoreapp3.1\TheSuperComputer.AssemblyInfo.cs
+E:\19.11.3136\TheSuperComputer\TheSuperComputer\obj\Debug\netcoreapp3.1\TheSuperComputer.dll
+E:\19.11.3136\TheSuperComputer\TheSuperComputer\obj\Debug\netcoreapp3.1\TheSuperComputer.pdb
